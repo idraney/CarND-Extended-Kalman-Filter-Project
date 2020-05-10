@@ -138,6 +138,8 @@ still be compilable with cmake and make.
 
 The Extended Kalman Filter program was launched from the terminal with the command `./ExtendedKF` alongside the Term2 simulator "EKF and UKF" program.  This resulted in RMSE values `px`, `py`, `vx`, and `vy` that met the expectation of being less than or equal to `0.11`, `0.11`, `0.52`, and `0.52`, respectively. 
 
+### Dataset 1
+
 Full output from `./ExtendedKF` results from Dataset 1 can be found [here](./dataset1_output.txt).  
 
 The table below shows the final RMSE values from Dataset 1.
@@ -152,6 +154,8 @@ The table below shows the final RMSE values from Dataset 1.
 The image below shows a zoomed-out view of the full path of the vehicle with resulting RMSE values from Dataset 1.
 
 ![alt text][image1]
+
+### Dataset 2
 
 Full output from `./ExtendedKF` results with Dataset 2 can be found [here](./dataset2_output.txt).  
 
